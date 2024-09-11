@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lKdMV1wxgjlZkVt2FOqnSRYZF0NyMKi2x3w0YggnFAQ=",
+  "Hash": "+FSxOHsyJa7gQXw6E+dnSaLfQZBnuUPfFsq/dkyvpXg=",
   "Source": "InvoiceGenerator",
   "BasePath": "_content/InvoiceGenerator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "InvoiceGenerator\\wwwroot",
       "Source": "InvoiceGenerator",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff2",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff2"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff2",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff2"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff2",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff2"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\font\\quicksand.css",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\font\\quicksand.css",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/font/quicksand.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand.css"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\css\\site.css",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\favicon.ico",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\img\\icon-512.png",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\img\\icon-512.png",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "img/icon-512.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon-512.png"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\img\\logo.svg",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\img\\logo.svg",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "img/logo.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.svg"
     },
     {
-      "Identity": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\img\\pizza-slice.svg",
+      "Identity": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\img\\pizza-slice.svg",
       "SourceId": "InvoiceGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\InvoiceGenerator\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\wwwroot\\",
       "BasePath": "_content/InvoiceGenerator",
       "RelativePath": "img/pizza-slice.svg",
       "AssetKind": "All",

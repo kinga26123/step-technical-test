@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj": {}
+    "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj": {
+    "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
+        "projectUniqueName": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
         "projectName": "InvoiceGenerator",
-        "projectPath": "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
+        "projectPath": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
         "packagesPath": "C:\\Users\\Precision\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\obj\\",
+        "outputPath": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Precision\\AppData\\Roaming\\NuGet\\NuGet.Config",

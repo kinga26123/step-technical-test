@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LBY261iS2m8=",
+  "dgSpecHash": "TE/tZoniqFE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
+  "projectFilePath": "c:\\Users\\Precision\\Blazor practice\\New folder\\step-technical-test\\InvoiceGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Precision\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "C:\\Users\\Precision\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
