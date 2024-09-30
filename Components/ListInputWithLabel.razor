@@ -1,0 +1,14 @@
+@typeparam T
+
+<li>
+    <div class="invoice-fields-label">@Label</div>
+    <input @bind="InputValue" />
+</li>
+
+@code {
+    [Parameter]
+    public string Label { get; set; }
+    
+    [Parameter]
+    public T InputValue { get; set; }
+}
